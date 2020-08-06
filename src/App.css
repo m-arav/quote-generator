@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.card {
+  background-color: wheat;
+  box-shadow: 0 .5em 1em -.125em rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.02);
+  color: #282c34;
+  padding: 3rem;
+  border-radius: 5px;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
